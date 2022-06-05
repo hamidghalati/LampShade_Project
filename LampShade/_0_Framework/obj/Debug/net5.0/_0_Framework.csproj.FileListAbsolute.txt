@@ -1,0 +1,11 @@
+G:\example\Final_Project\LampShade\_0_Framework\bin\Debug\net5.0\_0_Framework.deps.json
+G:\example\Final_Project\LampShade\_0_Framework\bin\Debug\net5.0\_0_Framework.dll
+G:\example\Final_Project\LampShade\_0_Framework\bin\Debug\net5.0\ref\_0_Framework.dll
+G:\example\Final_Project\LampShade\_0_Framework\bin\Debug\net5.0\_0_Framework.pdb
+G:\example\Final_Project\LampShade\_0_Framework\obj\Debug\net5.0\_0_Framework.GeneratedMSBuildEditorConfig.editorconfig
+G:\example\Final_Project\LampShade\_0_Framework\obj\Debug\net5.0\_0_Framework.AssemblyInfoInputs.cache
+G:\example\Final_Project\LampShade\_0_Framework\obj\Debug\net5.0\_0_Framework.AssemblyInfo.cs
+G:\example\Final_Project\LampShade\_0_Framework\obj\Debug\net5.0\_0_Framework.csproj.CoreCompileInputs.cache
+G:\example\Final_Project\LampShade\_0_Framework\obj\Debug\net5.0\_0_Framework.dll
+G:\example\Final_Project\LampShade\_0_Framework\obj\Debug\net5.0\ref\_0_Framework.dll
+G:\example\Final_Project\LampShade\_0_Framework\obj\Debug\net5.0\_0_Framework.pdb
