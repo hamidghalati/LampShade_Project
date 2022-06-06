@@ -18,4 +18,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ShopManagement.Domain\ShopManagement.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
