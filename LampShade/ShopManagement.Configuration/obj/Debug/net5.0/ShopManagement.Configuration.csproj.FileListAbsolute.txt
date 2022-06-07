@@ -1,0 +1,23 @@
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.deps.json
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.dll
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ref\ShopManagement.Configuration.dll
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.pdb
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Application.dll
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Domain.dll
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Infrastructure .EFCore.dll
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\_0_Framework.dll
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Application.Contracts.pdb
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Application.pdb
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Infrastructure .EFCore.pdb
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Domain.pdb
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\_0_Framework.pdb
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.csproj.AssemblyReference.cache
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.GeneratedMSBuildEditorConfig.editorconfig
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.AssemblyInfoInputs.cache
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.AssemblyInfo.cs
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.csproj.CoreCompileInputs.cache
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.csproj.CopyComplete
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.dll
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
