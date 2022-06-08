@@ -159,3 +159,5 @@ G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admi
 G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
 G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\_ViewImports.cshtml.g.cs
 G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\_ViewStart.cshtml.g.cs
+G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\ProductCategories\Index.cshtml.g.cs
+G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
