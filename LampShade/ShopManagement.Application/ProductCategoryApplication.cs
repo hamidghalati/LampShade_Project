@@ -19,7 +19,7 @@ namespace ShopManagement.Application
             ////در صورت رکورد تکراری
             var operation = new OperationResult();
             if (_productCategoryRepository.Exists(x=>x.Name==command.Name))
-                return operation.Failed("این نام از قبل وجود دارد، نام جدیدی انتخاب کنید");
+                return operation.Failed(ApplicationMessages.DuplicatedRecord);
             ////عملیات ایجاد
             var slug = command.Slug.Slugify();
             var productCategory = new ProductCategory(command.Name, command.Description, command.Picture,
@@ -37,12 +37,12 @@ namespace ShopManagement.Application
             var productCategory = _productCategoryRepository.Get(command.Id);
 
             if (productCategory == null)
-                return operation.Failed("چنین رکوردی وجود ندارد");
+                return operation.Failed(ApplicationMessages.RecordNotFound);
 
 
 
             if (_productCategoryRepository.Exists(x => x.Name == command.Name && x.Id != command.Id))
-                return operation.Failed("این نام از قبل وجود دارد، نام جدیدی انتخاب کنید");
+                return operation.Failed(ApplicationMessages.DuplicatedRecord);
 
 
             var slug = command.Slug.Slugify();
