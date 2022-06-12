@@ -27,7 +27,7 @@ namespace ShopManagement.Infrastructure_.EFCore.Repository
                 PictureAlt = x.PictureAlt,
                 PictureTitle = x.PictureTitle,
                 Slug = x.Slug
-            }).FirstOrDefault();
+            }).FirstOrDefault(x => x.Id == id);
         }
 
         public List<ProductCategoryViewModel> Search(ProductCategorySearchModel searchModel)

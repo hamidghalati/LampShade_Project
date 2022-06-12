@@ -35,11 +35,13 @@ namespace ShopManagement.Application
         {
             var operation = new OperationResult();
             var productCategory = _productCategoryRepository.Get(command.Id);
+
             if (productCategory == null)
                 return operation.Failed("چنین رکوردی وجود ندارد");
 
 
-            if (_productCategoryRepository.Exists(x=>x.Name==command.Name && x.Id !=command.Id))
+
+            if (_productCategoryRepository.Exists(x => x.Name == command.Name && x.Id != command.Id))
                 return operation.Failed("این نام از قبل وجود دارد، نام جدیدی انتخاب کنید");
 
 
