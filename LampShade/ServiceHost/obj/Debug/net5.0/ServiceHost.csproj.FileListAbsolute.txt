@@ -163,3 +163,10 @@ G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\ServiceHost.dll
 G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\ref\ServiceHost.dll
 G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\ServiceHost.pdb
 G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\ServiceHost.genruntimeconfig.cache
+G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\Products\Create.cshtml.g.cs
+G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\Products\Edit.cshtml.g.cs
+G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\Products\Index.cshtml.g.cs
+G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll

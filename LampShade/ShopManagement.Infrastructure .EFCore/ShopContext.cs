@@ -1,11 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Dynamic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.EntityFrameworkCore;
+using ShopManagement.Domain.ProductAgg;
 using ShopManagement.Domain.ProductCategoryAgg;
+using ShopManagement.Domain.ProductPictureAgg;
 using ShopManagement.Infrastructure_.EFCore.Mapping;
 
 namespace ShopManagement.Infrastructure_.EFCore
@@ -13,6 +9,8 @@ namespace ShopManagement.Infrastructure_.EFCore
     public class ShopContext:DbContext
     {
         public DbSet<ProductCategory> ProductCategories { get; set; }
+        public DbSet<Product> Products { get; set; }
+        public DbSet<ProductPicture> ProductPictures { get; set; }
 
         public ShopContext(DbContextOptions<ShopContext> options) : base(options)
         {
