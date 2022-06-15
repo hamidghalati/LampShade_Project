@@ -1,5 +1,3 @@
-G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.Identity.Client.dll
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\appsettings.Development.json
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\appsettings.json
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\ServiceHost.exe
@@ -7,7 +5,6 @@ G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\ServiceHost.deps
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\ServiceHost.runtimeconfig.json
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\ServiceHost.runtimeconfig.dev.json
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\ServiceHost.dll
-G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\ref\ServiceHost.dll
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\ServiceHost.pdb
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\ServiceHost.Views.dll
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\ServiceHost.Views.pdb
@@ -20,11 +17,13 @@ G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAn
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.Identity.Client.dll
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
 G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
@@ -146,6 +145,12 @@ G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admi
 G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\ProductCategories\Create.cshtml.g.cs
 G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\ProductCategories\Edit.cshtml.g.cs
 G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\ProductCategories\Index.cshtml.g.cs
+G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\ProductPictures\Create.cshtml.g.cs
+G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\ProductPictures\Edit.cshtml.g.cs
+G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\ProductPictures\Index.cshtml.g.cs
+G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\Products\Create.cshtml.g.cs
+G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\Products\Edit.cshtml.g.cs
+G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\Products\Index.cshtml.g.cs
 G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\_ViewImports.cshtml.g.cs
 G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\_ViewStart.cshtml.g.cs
 G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
@@ -163,10 +168,8 @@ G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\ServiceHost.dll
 G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\ref\ServiceHost.dll
 G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\ServiceHost.pdb
 G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\ServiceHost.genruntimeconfig.cache
-G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\Products\Create.cshtml.g.cs
-G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\Products\Edit.cshtml.g.cs
-G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\Products\Index.cshtml.g.cs
-G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
-G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
-G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
-G:\example\Final_Project\LampShade\ServiceHost\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\refint\ServiceHost.dll
+G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shared\_Menu.cshtml.g.cs
+G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\Slides\Create.cshtml.g.cs
+G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\Slides\Edit.cshtml.g.cs
+G:\example\Final_Project\LampShade\ServiceHost\obj\Debug\net5.0\Razor\Areas\Admin\Pages\Shop\Slides\Index.cshtml.g.cs

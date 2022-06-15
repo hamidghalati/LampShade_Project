@@ -40,7 +40,8 @@ namespace ShopManagement.Infrastructure_.EFCore.Repository
                 DateCreate = x.DateCreate.ToString(),
                 Picture = x.Picture,
                 Product = x.Product.Name,
-                ProductId = x.ProductId
+                ProductId = x.ProductId,
+                IsRemoved = x.IsRemove
             });
 
             if (searchModel.ProductId != 0)

@@ -2,6 +2,7 @@
 using ShopManagement.Domain.ProductAgg;
 using ShopManagement.Domain.ProductCategoryAgg;
 using ShopManagement.Domain.ProductPictureAgg;
+using ShopManagement.Domain.SlideAgg;
 using ShopManagement.Infrastructure_.EFCore.Mapping;
 
 namespace ShopManagement.Infrastructure_.EFCore
@@ -11,17 +12,13 @@ namespace ShopManagement.Infrastructure_.EFCore
         public DbSet<ProductCategory> ProductCategories { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<ProductPicture> ProductPictures { get; set; }
+        public DbSet<Slide> Slides { get; set; }
 
         public ShopContext(DbContextOptions<ShopContext> options) : base(options)
         {
         }
 
-        protected ShopContext(DbSet<ProductCategory> productCategories)
-        {
-            ProductCategories = productCategories;
-        }
-
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
+       protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             var assembly = typeof(ProductCategoryMapping).Assembly;
             modelBuilder.ApplyConfigurationsFromAssembly(assembly);

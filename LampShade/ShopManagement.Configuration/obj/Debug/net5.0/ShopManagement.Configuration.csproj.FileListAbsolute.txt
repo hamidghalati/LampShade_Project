@@ -1,6 +1,5 @@
 G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.deps.json
 G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.dll
-G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ref\ShopManagement.Configuration.dll
 G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Configuration.pdb
 G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Application.Contracts.dll
 G:\example\Final_Project\LampShade\ShopManagement.Configuration\bin\Debug\net5.0\ShopManagement.Application.dll
@@ -21,3 +20,4 @@ G:\example\Final_Project\LampShade\ShopManagement.Configuration\obj\Debug\net5.0
 G:\example\Final_Project\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.dll
 G:\example\Final_Project\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ref\ShopManagement.Configuration.dll
 G:\example\Final_Project\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\ShopManagement.Configuration.pdb
+G:\example\Final_Project\LampShade\ShopManagement.Configuration\obj\Debug\net5.0\refint\ShopManagement.Configuration.dll
